@@ -1,4 +1,4 @@
-# CS180 Project 5 README
+# Store Calendar Application README
 ## Authors
 - Audrey Lupton
 - Sruthi Lingam
